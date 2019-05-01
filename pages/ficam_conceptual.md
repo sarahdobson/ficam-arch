@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Conceptual View
+title: Conceptual Diagram
 permalink: /conceptual/
 ---
 
@@ -9,18 +9,28 @@ permalink: /conceptual/
 
 ![Conceptual Diagram]({{site.baseurl}}/img/ConceptualDiagram.png)
 
-The Conceptual Diagram has three main components, each of which corresponds to the three main areas of ICAM:  
+The Conceptual Diagram is a graphical depiction of the three main components of ICAM:  
 
-* [Identity Management]({{site.baseurl}}/services/identity), 
-* [Credential Management]({{site.baseurl}}/services/credentials), and 
-* [Access Management]({{site.baseurl}}/services/access). 
+* [**Identity Management**]({{site.baseurl}}/services/identity) allows an organization to construct a trusted digital identity based on an individual's defining attributes, such as the individual's birth date and fingerprints. Identity management includes the following ICAM services:
+    * Identity Proofing
+    * Creation
+    * Maintenance
+    * Identity Resolution
+    * Deactivation
+* [**Credential Management**]({{site.baseurl}}/services/credentials) allows an organization to associated a digital identity with a credential, which is authoritative proof of that claimed identity. Credential management includes the following ICAM services:
+    * Sponsorship
+    * Registration
+    * Issuance
+    * Maintenance
+    * Revocation
+* [**Access Management**]({{site.baseurl}}/services/access) allows an organization to leverage trusted identities and authoritative credentials to ensure only permitted individuals are granted access to protected resources, such as doors or computers. Access Management includes the following ICAM services:
+    * Policy Administration
+    * Entitlement Management
+    * Provisioning
+    * Authentication
+    * Authorization
 
-You can see these areas in the large rounded boxes above.
-Front and center in each box is a graphical depiction of one of the core ICAM components.  
-
-For example, the Identity box shows the unique characteristics that make up a person, such as their birth date and fingerprints, being used to create a digital identity for that individual. The Credential box shows that digital identity being bound to a credential. The Access box shows the person using their digital identity and their credential to securely access protected resources, such as a door or a computer.
-
-Each box is split into several components to help explain these core concepts. Above the graphic, there’s a brief explanation of each ICAM concept, and below the graphic there’s a list of the ICAM Services that fall under each (see [Services Framework]({{site.baseurl}}/services/) for more).
+For more information about ICAM services, see [Services Framework]({{site.baseurl}}/services/).
 
 Throughout the FICAM Architecture, the colors and symbols you see here are used to map new concepts back to these core areas. For example, whenever you see purple and the person icon, that concept relates to Identity Management. Green and the document icon relate to Credential Management. Blue and the lock icon relate to Access Management.  Any element that shows all three colors relates to ICAM as a whole.
 

@@ -9,7 +9,7 @@ permalink: /conceptual/
 
 ![Conceptual Diagram]({{site.baseurl}}/img/ConceptualDiagram.png)
 
-The Conceptual Diagram is a graphical depiction of the three main components of ICAM:  
+The Conceptual Diagram is a graphical depiction of the three main components of Identity, Credential, and Access Management (ICAM):  
 
 * [**Identity Management**]({{site.baseurl}}/services/identity) allows an organization to construct a trusted digital identity based on an individual's defining attributes, such as the individual's birth date and fingerprints. Identity management includes the following ICAM services:
     * Identity Proofing

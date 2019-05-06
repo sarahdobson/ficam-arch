@@ -6,9 +6,9 @@ permalink: /goals/
 | **Description** | Establishes and bounds the strategy driving ICAM implementation. |
 | **Audience** | Senior government leaders, agency executives, ICAM program leadership responsible for setting program strategy. |
 
-The FICAM Goals & Objectives identify the aims and outcomes that all Federal agency ICAM programs should contribute toward.  
+The Federal Identity, Credential, and Access Management (FICAM) goals and objectives identify the aims and outcomes to which all federal agency Identity, Credential, and Access Management (ICAM) programs should contribute.  
 
-The visual includes four Goals, each with its own Objectives. The Goals are broad, aspirational statements, whereas the Objectives are the more concrete actions that should be taken to meet those Goals.  
+The visual includes four goals, each with its own objectives. The goals are broad, aspirational statements, whereas the objectives are the more concrete actions that should be taken to meet those goals.  
 
 ![Goals and Objectives]({{site.baseurl}}/img/GoalsObjectives.png)
 
@@ -35,5 +35,4 @@ The visual includes four Goals, each with its own Objectives. The Goals are broa
 
 ### Background & Key Revisions
 
-The updated Goals & Objectives are to convey not just general cybersecurity goals but how ICAM contributes to that goal’s success. The language was also revised to reflect that ICAM Goals accomplish high level aspirations of the Federal Government, whereas Objectives discuss actionable ways to achieve those goals. Lastly, the ‘compliance’-focused goal has been removed in favor of showing throughout the document how ICAM inherently contributes to Federal compliance.  
-
+The updated Goals & Objectives convey both general cybersecurity goals and how ICAM contributes to each goal’s success. The new language makes clear that ICAM goals accomplish high level aspirations of the Federal Government, whereas objectives describe actionable ways to achieve those goals. Lastly, the compliance-focused goal was removed in favor of showing throughout the document how ICAM inherently contributes to federal compliance.

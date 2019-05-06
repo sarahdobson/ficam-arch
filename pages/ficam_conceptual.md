@@ -36,7 +36,7 @@ The Conceptual Diagram also includes the following overarching concepts:
 
 For more information about ICAM services, see [Services Framework]({{site.baseurl}}/services/).
 
-Throughout the FICAM Architecture, we color-code concepts to match the sections of the Conceptual Diagram. Identity Management concepts are noted with purple and the person icon, Credential Management concepts are noted with green and the document icon, and Access Management concepts are noted with blue and the lock icon. Any element that shows all three colors relates to ICAM as a whole.
+Throughout the Federal Identity, Credential, and Access Management (FICAM) Architecture, we color-code concepts to match the sections of the Conceptual Diagram. Identity Management concepts are noted with purple and the person icon, Credential Management concepts are noted with green and the document icon, and Access Management concepts are noted with blue and the lock icon. Any element that shows all three colors relates to ICAM as a whole.
 
 #### How should I use this page?
 This guide is meant to be a basic reference for core ICAM concepts. It’s your starting point to understand the next layer of ICAM, the [Services Framework]({{site.baseurl}}/services/), and beyond.

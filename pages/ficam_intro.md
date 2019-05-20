@@ -55,7 +55,7 @@ In general, federal agencies and departments should use the FICAM Architecture a
 This site has two purposes:
 
 *  To provide an authoritative location where anyone can access the most up-to-date version of the FICAM Architecture, and
-*  To serve as a collaborative space where subject matter experts and members of the ICAM community can work to revise and refine the Architecture over time.
+*  To serve as a collaborative space where subject matter experts and members of the ICAM community can work on revising and refining the Architecture over time.
 
 If you are new to the FICAM Architecture, in the left navigation bar, begin with the Conceptual Diagram and work downwards through the various elements of the Architecture.
 

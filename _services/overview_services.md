@@ -5,9 +5,9 @@ collection: services
 permalink: /services/
 ---
 
-The Services Framework identifies the services that provide functionality within the scope of ICAM. You can use the Services Framework to translate between business requirements and technical solutions.  
+The Services Framework identifies the services that fall under the ICAM umbrella. You can use the Services Framework to translate between business requirements and technical solutions.  
 
-The ICAM Services are defined for the five conceptual practice areas, with descriptions and simple diagrams for you to use:
+This section of the FICAM Architecture defines the services for each conceptual practice area, with descriptions and images:
 
 * [Identity Management]({{site.baseurl}}{{page.url}}identity)
 * [Credential Management]({{site.baseurl}}{{page.url}}credentials)
@@ -18,11 +18,11 @@ The ICAM Services are defined for the five conceptual practice areas, with descr
 
 ![Services Framework]({{site.baseurl}}/img/ServicesFramework.png)
 
-Each service area has individual services and descriptions of the functionality with related keywords:  
+The following diagram provides short descriptions and keywords for the services within each practice area: 
 
 ![Services Descriptions]({{site.baseurl}}/img/ServicesDescriptions.png)
 
 
 #### Who is the Audience?
 
-ICAM Program Managers, and Information Technology Enterprise Architects
+ICAM Program Managers and Information Technology Enterprise Architects

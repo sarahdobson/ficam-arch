@@ -43,7 +43,7 @@ This guide is meant to be a basic reference for core ICAM concepts. It’s your 
 
 Please feel free to copy the graphics and text from this page to use at your own agency to drive ICAM awareness and understanding!
 
-If you want to contribute a new idea or suggest a revision to the existing Architecture documents, in the left navigation bar, click **Contribute** to learn how.
+If you want to contribute a new idea or suggest a revision to the existing Architecture documents, in the left navigation bar, click [Contribute]({{site.baseurl}}/contribute/) to learn how.
 
 ### Background & Key Revisions
 

@@ -4,81 +4,86 @@ title: Credential Management
 collection: services
 permalink: services/credentials/
 ---
-![Credential Service Diagram - Overview of diagram follows in text below.]({{site.baseurl}}/img/Credential.png){:align="right"}
+![Credential Service Diagram - Overview of diagram follows in the text below.]({{site.baseurl}}/img/Credential.png){:align="right"}
 Credential Management is the set of practices that an organization uses to issue, track, update, and revoke
 credentials for identities within their context.
 
 A **CREDENTIAL** is authoritative evidence of an individual’s claimed identity. Credentials come in many types, from
-physical papers and cards (such as a passport or ATM card) to electronic items (such as a password or digital certificate),
-and often incorporate anti-tamper features.  Within the US Federal Government, we have **PIV** as a credential.  
+physical papers and cards (a passport or ATM card) to electronic items (a password or digital certificate),
+and often incorporate anti-tamper features.  Within the US Federal Government, we have **Personal Identity Verification (PIV)** as a credential.  
 
-All credentials, no matter what type, associate an identity
-with an individual (typically via an identifier) and identify the
-organization that issued it:
+Every credential, no matter what type, associates an identity
+with an individual (typically via an identifier) and identifies the
+organization that issued the credential:
 
-* Your driver’s license includes a license number, your
+* A driver’s license includes a license number, a
 name, and a state seal.
 
-* An ATM card includes a card number, your name, and
+* An ATM card includes a card number, a name, and
 a corporate symbol.
 
-* A PIV credential contains a picture, the issuing agency logo, and cryptographic key pairs
+* A PIV credential includes a picture, the issuing agency logo, and cryptographic key pairs.
 
 Some credentials indicate authorizations granted to the
 identity by the issuing organization. For example, a driver’s
 license includes the authorization to drive a car.
 
 Unlike identities, credentials generally expire. If an identity
-continues past the expiration date of the credential, a new
-credential is issued:
+continues past the expiration date of the credential, the organization issues a new
+credential:
 
-* Your driver’s license expires after so many years and
+* Your driver’s license expires after so many years, and
 you receive a new one.
 
-* Your ATM card expires after so many years and you
+* Your ATM card expires after so many years, and you
 receive a new one.
 
-* Your PIV credential expires after three to six years and you receive a new one.
+* Your PIV credential expires after three to six years, and you receive a new one.
 
-A credential that is lost or compromised before it expires
-may be revoked by the organization that issued it. Credentials can incorporate something you know (such as a
-password or PIN), something you have (such as a card), or
-something you are (such as a fingerprint or iris). Some
-credentials incorporate more than one option, and are referred to
-as two-factor or three-factor or multi-factor.
+An organization can revoke an issued credential that is lost or compromised before it expires.
+
+Credentials can incorporate one or more of the following features to confirm an individual's identity:
+
+* Something you know, such as a password or PIN.
+
+* Something you have, such as a card.
+
+* Something you are, such as a fingerprint or iris.
+
+When a credential incorporates more than one of these features, is uses two-factor, three-factor, or multi-factor authentication.
 
 As with identity proofing, credentials have different Levels of
 Assurance depending on the strength required. The
-credential for accessing your bank account is likely stronger
-than the credential for accessing your health club.
+credential to access your bank account is likely stronger
+than the credential to access your health club.
 
   
 ### Credential Management Services
 The Credential Management services in the Federal ICAM architecture include Sponsorship, Registration, Issuance, Maintenance, and Revocation.
 
-![Credential Service Details Diagram - Service definitions follow in text below.]({{site.baseurl}}/img/credential_services_detailed.png){:align="center"}
+![Credential Service Details Diagram - Service definitions follow in the text below.]({{site.baseurl}}/img/credential_services_detailed.png){:align="center"}
 
 **Sponsorship**  
 
-> Formally establishing that a person or entity requires a credential.   
+> Formally establish that a person or entity requires a credential.
 _Keywords_: Sponsor, Authorizing Official, Affiliation, Request
 
 **Registration**  
 
-> Collecting the information needed from a person or entity to issue them a credential.   
+> Collect the information needed from a person or entity to issue them a credential.
 _Keywords_: Enrollment  
 
 **Issuance**  
 
-> Transferring a credential to a person or entity.  
+> Transfer a credential to a person or entity.
 _Keywords_: Activation, Token  
 
 **Maintenance**  
 
-> Maintaining a credential over its life cycle.
+> Maintain a credential over its life cycle.
 _Keywords_: Renewal, Reset, Suspension, Blocking, Reissuance  
 
 **Revocation**  
 
-> Withdrawing a credential from a person or entity.  
+> Withdraw a credential from a person or entity.  
 _Keywords_: Termination  

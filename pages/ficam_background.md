@@ -12,7 +12,7 @@ With that in mind, ICAM experts from across the Federal Government collaborated 
 
 In 2015, members of the Federal ICAM community participated in a tiger team under the direction of the Federal Chief Information Officer (CIO) Council’s ICAM Subcommittee (ICAMSC) to review, validate, and revise elements of the FICAM Architecture as described in the FICAM Roadmap and Implementation Guidance v2.0. Members of this effort worked within the following guiding principles:
 
-*  The initial architecture is still largely correct and relevant, and revision activities should focus on modernization and enhancements rather than a complete overhaul
+*  The initial architecture is still mostly correct and relevant, and revision activities should focus on modernization and enhancements rather than a complete overhaul
 *  Existing architecture elements should be considered for update and inclusion to maintain backward compatibility with existing agency enterprise architecture design
 *  Architecture artifacts should focus on common ICAM goals, processes, and requirements rather than outliers or one-off agency use cases
 *  New elements should address gaps or improve clarity to shorten the original document
@@ -22,7 +22,7 @@ In 2015, members of the Federal ICAM community participated in a tiger team unde
 
 ### The Move to Online Collaboration
 
-To support a collaborative and iterative environment for the Federal ICAM community, the FICAM Enterprise Architecture was released to this site for continuous refinement and improvement. 
+To support a collaborative and iterative environment for the Federal ICAM community, the FICAM Enterprise Architecture lives on this site for continuous refinement and improvement.
 
 Stakeholders and partners are encouraged to regularly review this information and provide comments and recommendations on how it can be improved or updated to support agency knowledge and ICAM implementation. Source files, final records, and future revisions will be managed by the FICAM Program, with guidance and support from the CIO Council’s ICAMSC.
 

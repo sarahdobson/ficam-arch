@@ -41,7 +41,7 @@ Authentication is generally a two-step process:
 
 >  - Did a trusted organization issue the credential?
   - Has the credential expired?
-  - Has the credential been revoked, voided, or tampered?
+  - Has the credential been revoked, voided, or altered?
 
 **Step 2**. Ensure that the individual to whom the credential was issued is the
 same individual that is presenting the credential:
@@ -51,7 +51,7 @@ same individual that is presenting the credential:
   - Does the person have the private key on the PIV card for the certificate presented to the website?
 
 
-You initially establish your identity via identity proofing, and you confirm who you are via authentication.
+You initially establish your identity via identity proofing, and you confirm and use your identity via authentication.
 
 
 **AUTHORIZATION** is how an organization determines whether or not to grant access. In other words authorization is the process by which an organization decides, according to policy, whether or not to approve a request to perform an action on a resource. The range of possible requests is broad:
@@ -65,8 +65,7 @@ You initially establish your identity via identity proofing, and you confirm who
 In some cases, an organization must first perform authentication in order to
 perform authorization:
 
-> When you present your driver’s license at a bar, the bartender simultaneously authenticates (the bartender ensures the photo on
-the license matches the person) and authorizes (the bartender
+> When you present your driver’s license at a bar, the bartender simultaneously authenticates (the bartender ensures the license is valid, unexpired, and yours) and authorizes (the bartender
 ensures you are old enough).  
 
 In other cases, authorization can occur without authentication:  

@@ -47,7 +47,7 @@ If you want to contribute a new idea or suggest a revision to the existing Archi
 
 ### Background & Key Revisions
 
-The previous conceptual diagram showed many elements of ICAM and described more complex business processes. The new diagram depicts the three core areas of ICAM and is meant to build foundational ICAM knowledge. This diagram also includes Governance and Federation, which the previous version did not include.
+The previous conceptual diagram was complex and included many ICAM elements and business processes. The new diagram depicts the three core areas of ICAM and is meant to build foundational ICAM knowledge. This diagram also includes Governance and Federation, which the previous version did not include.
 
 To view the previous diagram, see [Use Cases]({{site.baseurl}}/usecases/).
 

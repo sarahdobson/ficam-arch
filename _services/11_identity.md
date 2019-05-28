@@ -10,15 +10,14 @@ Identity Management is the set of practices that allow an
 organization to establish, maintain, and terminate identities.
 
 An **IDENTITY** is the set of characteristics (also called
-*attributes*) that describe an individual. Individuals have unique identities depending on the context:
+*attributes*) that describe an individual. Individuals have unique identities, or personas, depending on the context:
 
-* Your identity within the context of the Department of
+* Your identity at the Department of
 Motor Vehicles (DMV) is different from your identity
-within the context of your bank.
+at your bank.
 * A person who is both a government
 contractor and an Army Reservist has two
-identities, one in each context. These identities are
-often called *personas*.
+identities, one in each context.
 
 Identities change and evolve (you may get a
 promotion, change your hair color, or receive additional
@@ -27,7 +26,7 @@ driver’s license when you move to another state), but
 identities do not expire.
 
 **IDENTITY PROOFING** is the process by which an organization initially establishes an identity. This process can be simple or complex,
-depending on the Level of Assurance, or strength, that the organization requires of the identity:
+depending on the Level of Assurance, or strength, that the organization requires:
 
 * The process for a frequent shopper program at the
 local grocery store is weak.

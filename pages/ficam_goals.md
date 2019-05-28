@@ -8,7 +8,7 @@ permalink: /goals/
 
 The Federal Identity, Credential, and Access Management (FICAM) goals and objectives identify the aims and outcomes to which all federal agency ICAM programs should contribute.  
 
-The visual includes four goals, each with its own objectives. The goals are broad, aspirational statements, whereas the objectives are the more concrete actions that should be taken to meet those goals.  
+The following image includes four goals, each with its own objectives. The goals are broad, aspirational statements, whereas the objectives are the more concrete actions that should be taken to meet those goals.  
 
 ![Goals and Objectives]({{site.baseurl}}/img/GoalsObjectives.png)
 
